@@ -3,6 +3,7 @@
 > Nuxt.js project
 
 ## Build Setup
+# test comment
 
 ``` bash
 # install dependencies
